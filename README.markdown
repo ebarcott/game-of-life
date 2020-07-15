@@ -1,4 +1,4 @@
-Hi from Erika, I'm just testing the github webhook
+Hi, testing github webhooks, ignore me 
 
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
